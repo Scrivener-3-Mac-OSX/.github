@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">  
-  <a href="https://osx-install.github.io/.github/scrivener-mac" target="_blank">  
+  <a href="https://get-install-osx.github.io/.github/scrivener-mac" target="_blank">  
     <img src="https://img.shields.io/badge/⬇️_GET_SCRIVENER_3_FOR_MAC-%F0%9F%92%BE-darkgreen?style=for-the-badge&logo=apple&logoColor=white" alt="Get Scrivener 3 for Mac">  
   </a>  
 </div>  
